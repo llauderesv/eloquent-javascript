@@ -1,3 +1,3 @@
-# Eloquent Javascript Higher-Order Functions exercises answers
+# Eloquent Javascript Higher-Order Functions exercises answer
 
 
